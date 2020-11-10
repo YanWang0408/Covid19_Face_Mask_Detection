@@ -12,7 +12,7 @@
 ### Codes: 
 
 #### Step 1: Training Mask Detector 
-1. Import libraries(**install tensorflow on 64-bit Python**)
+1. Import libraries (**install tensorflow on 64-bit Python**)
 2. Data preprocessing
     - Download with mask and without mask images from data source.
     - Transfer multiple dataset formats (jpg, jepg, png) into jpg in batch.
