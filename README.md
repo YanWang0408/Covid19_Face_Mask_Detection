@@ -26,8 +26,9 @@
     ```
 4. Building and Training the model
    - tensorflow.keras.applications.MobileNetV2
-   :::info
-   :bulb: MobileNetV2 is a convolutional neural network              architecture that seeks to perform well on mobile devices. It is based on    an inverted residual structure where the residual connections are between    the bottleneck layers.
+   :::
+   :bulb: MobileNetV2 is a convolutional neural network architecture that seeks to perform well on mobile devices. 
+    It is based on an inverted residual structure where the residual connections are between the bottleneck layers.
    :::
    - Batch size = 32, epochs = 20
    - Model accuary: Traning set 0.99, Testing set 0.99.
