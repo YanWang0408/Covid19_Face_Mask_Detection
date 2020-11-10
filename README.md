@@ -25,11 +25,8 @@
       image = preprocess_input(image)
     ```
 4. Building and Training the model
-   - tensorflow.keras.applications.MobileNetV2
-   :::
-   :bulb: MobileNetV2 is a convolutional neural network architecture that seeks to perform well on mobile devices. 
-    It is based on an inverted residual structure where the residual connections are between the bottleneck layers.
-   :::
+   - tensorflow.keras.applications.MobileNetV2 
+   > MobileNetV2 is a convolutional neural network architecture that seeks to perform well on mobile devices. It is based on an inverted residual structure where the residual connections are between the bottleneck layers.
    - Batch size = 32, epochs = 20
    - Model accuary: Traning set 0.99, Testing set 0.99.
 5. Serialize the model to disk
