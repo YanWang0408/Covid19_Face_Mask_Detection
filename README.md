@@ -36,7 +36,13 @@
 
 #### Step 2: Realtime Mask Detection
 
-To be continue...
+1. Import libraries
+2. Define detect_and_predict_mask funtion, it requires three parameters:
+   - Image frame captured from video
+   - Face detection model
+   - Mask detection model
+3. Initialize the video stream
+4. Destroy All Windows
 
 ### Credits::pushpin: 
 
