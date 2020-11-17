@@ -19,7 +19,7 @@
     - Identify invalid data and remove them.
     - Normalize data size. From 1024 by 1024 into 224 by 224.
 3. Transfer image into numpy array
-   ```python=15
+   ```
       image = load_img(img_path, target_size = (224, 224))
       image = img_to_array(image)
       image = preprocess_input(image)
