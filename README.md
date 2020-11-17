@@ -30,7 +30,7 @@
    - Batch size = 32, epochs = 20
    - Model accuary: Traning set 0.99, Testing set 0.99.
 5. Serialize the model to disk
-   ```python=62
+   ```
       model.save("mask_detector.model", save_format="h5")
     ```
 
