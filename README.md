@@ -11,7 +11,8 @@
 
 ### Codes: 
 
-#### Step 1: Training Mask Detector 
+#### Step 1: Training_Mask_Detector.ipynb
+
 1. Import libraries (**install tensorflow on 64-bit Python**)
 2. Data preprocessing
     - Download with mask and without mask images from data source.
