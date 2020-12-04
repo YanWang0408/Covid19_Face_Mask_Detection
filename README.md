@@ -35,7 +35,7 @@
       model.save("mask_detector.model", save_format="h5")
     ```
 
-#### Step 2: Realtime Mask Detection
+#### Step 2: Realtime_mask_detection.py
 
 1. Import libraries
 2. Define detect_and_predict_mask funtion, it requires three parameters:
