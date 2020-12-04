@@ -63,6 +63,10 @@
 
 [Deep Learning Tutorials](https://www.udemy.com/course/machinelearning/learn/lecture/6761138#overview) 
 
+[AI Text to Speech in 10 Minutes with Python and Watson TTS](https://www.youtube.com/watch?v=8k8S5ruFAUs&t=439s) 
+
+[How to send beautiful emails with attachments (yes, cat pics too) using only Python](https://www.youtube.com/watch?v=m9ojKEBYCvQ&t=853s) 
+
 [OpenCV Python Tutorial For Beginners](https://www.youtube.com/watch?v=eX7wXfNLFDw&list=PLS1QulWo1RIa7D1O6skqDQ-JZ1GGHKK-K&index=18)
 
 [Deep learning: How OpenCV’s blobFromImage works](https://www.pyimagesearch.com/2017/11/06/deep-learning-opencvs-blobfromimage-works/)
