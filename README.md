@@ -48,10 +48,13 @@
 
 ### Step 3: Additional steps - Alerts
 1. waston_text2speech.py
+
     Customize your alert message into audio, with multiple mainstream language choices.
 2. Realtime_mask_detection_audio_alerts.py
+
     Once the system detects people without a mask, the alert will sound.
 3. email_alert_with_screenshot.py
+
     Customize your email alert message.
 4. Realtime_mask_detection_email_alerts.py
     
